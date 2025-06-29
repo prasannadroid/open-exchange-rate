@@ -6,7 +6,7 @@ A modern Android currency conversion app built with **Kotlin, Clean Architecture
 
 | Light Theme | Dark Theme |
 |------------|------------|
-| ![Light Theme](images/screen1_light.png)(images/screen2_light.png) | ![Dark Theme](images/screen2_dark.png) (images/screen2_dark.png)
+| ![Light Theme](images/screen1_light.png)|(images/screen2_light.png) | ![Dark Theme](images/screen2_dark.png) | (images/screen2_dark.png)
 
 **Unit Test Coverage**  
 ![Kover Report](images/kover)  
