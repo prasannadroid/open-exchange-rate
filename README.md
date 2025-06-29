@@ -20,6 +20,7 @@ A modern Android currency conversion app built with **Kotlin, Clean Architecture
 </table>
 
 **Unit Test Coverage**  
+Over 90+ percent unit test coverage (Kover coverage report)
 ![Kover Report](images/kover.png)  
 
 ## 🛠 Tech Stack  
