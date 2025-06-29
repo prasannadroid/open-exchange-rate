@@ -4,13 +4,20 @@ A modern Android currency conversion app built with **Kotlin, Clean Architecture
 
 ## 📸 Screenshots  
 
-| Light Theme | Dark Theme |
-|------------|------------|
-| <img src="images/screen1_light.png" width="300" /> | <img src="images/screen2_light.png" width="300" /> |
+### Light Theme
+<div align="center">
+  <img src="images/screen1_light.png" width="250" />
+  <img src="images/screen2_light.png" width="250" />  
+</div>
 
+### Dark Theme  
+<div align="center">
+  <img src="images/screen1_dark.png" width="250" />
+  <img src="images/screen2_dark.png" width="250" />
+</div>
 
 **Unit Test Coverage**  
-![Kover Report](images/kover)  
+![Kover Report](images/kover.png)  
 
 ## 🛠 Tech Stack  
 - **Language**: Kotlin  
