@@ -4,17 +4,20 @@ A modern Android currency conversion app built with **Kotlin, Clean Architecture
 
 ## 📸 Screenshots  
 
-### Light Theme
-<div align="center">
-  <img src="images/screen1_light.png" width="250" />
-  <img src="images/screen2_light.png" width="250" />  
-</div>
-
-### Dark Theme  
-<div align="center">
-  <img src="images/screen1_dark.png" width="250" />
-  <img src="images/screen2_dark.png" width="250" />
-</div>
+<table>
+  <tr>
+    <td align="center"><strong>Light Theme 1</strong></td>
+    <td align="center"><strong>Light Theme 2</strong></td>
+    <td align="center"><strong>Dark Theme 1</strong></td>
+    <td align="center"><strong>Dark Theme 2</strong></td>
+  </tr>
+  <tr>
+    <td>< <img src="images/screen1_light.png" width="250" /></td>
+    <td> <img src="images/screen2_light.png" width="250" /> </td>
+    <td><img src="images/screen1_dark.png" width="250" /></td>
+    <td><img src="images/screen2_dark.png" width="250" /></td>
+  </tr>
+</table>
 
 **Unit Test Coverage**  
 ![Kover Report](images/kover.png)  
