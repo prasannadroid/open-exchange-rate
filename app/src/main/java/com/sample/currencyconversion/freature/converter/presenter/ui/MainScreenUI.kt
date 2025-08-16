@@ -63,7 +63,7 @@ fun MainScreenUI(
                     .fillMaxWidth()
                     .padding(padding)
             ) {
-
+                // show the exchange rate content
                 ExchangeRateContent(currencyList, uiState)
             }
         })
